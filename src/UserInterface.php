@@ -1,6 +1,6 @@
 <?php
 
-namespace Tourze\WechatWorkStaffModel;
+namespace Tourze\WechatWorkContracts;
 
 /**
  * 部门成员

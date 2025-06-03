@@ -1,6 +1,6 @@
 <?php
 
-namespace Tourze\WechatWorkStaffModel;
+namespace Tourze\WechatWorkContracts;
 
 /**
  * @see https://developer.work.weixin.qq.com/document/path/90208

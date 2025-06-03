@@ -1,11 +1,11 @@
 <?php
 
-namespace Tourze\WechatWorkStaffModel;
+namespace Tourze\WechatWorkContracts;
 
 interface UserLoaderInterface
 {
     /**
-     * 根据UserId读取用户
+     * 根据UserId和企业信息读取用户
      */
-    public function loadUserByUserId(string $userId): ?UserInterface;
+    public function loadUserByUserIdAndCorp(string $userId, CorpInterface $corp): ?UserInterface;
 }

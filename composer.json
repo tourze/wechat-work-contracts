@@ -1,6 +1,6 @@
 {
-  "name": "tourze/wechat-work-staff-model",
-  "description": "企业微信员工管理定义",
+  "name": "tourze/wechat-work-contracts",
+  "description": "企业微信通用定义",
   "type": "library",
   "license": "MIT",
   "require": {
@@ -12,12 +12,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Tourze\\WechatWorkStaffModel\\": "src/"
+      "Tourze\\WechatWorkContracts\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Tourze\\WechatWorkStaffModel\\Tests\\": "tests/"
+      "Tourze\\WechatWorkContracts\\Tests\\": "tests/"
     }
   }
 }

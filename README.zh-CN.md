@@ -1,11 +1,11 @@
-# wechat-work-staff-model
+# wechat-work-contracts
 
 企业微信员工管理定义
 
 ## 安装
 
 ```bash
-composer require tourze/wechat-work-staff-model
+composer require tourze/wechat-work-contracts
 ```
 
 ## 使用方法
